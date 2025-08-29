@@ -17,7 +17,7 @@ This website is my central hub for:
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla or Framework of choice)
+- **Frontend:** HTML5, CSS3, JavaScript (React)
 - **Styling:** Custom CSS with animations
 - **Icons & Graphics:** Custom-designed assets and SVGs
 - **Hosting:** GitHub Pages / Custom Domain
@@ -57,19 +57,10 @@ portfolio/
 If you’d like to collaborate, hire me, or just say hi:
 - **Email:** harshpatil029@example.com
 - **GitHub:** [@harshpatil029](https://github.com/harshpatil029)
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** https://www.linkedin.com/in/harsh-patil-b50730271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ---
 
 ⭐ *Made with dedication by Harsh Patil — Every pixel tells my story.*
 ```
-
----
-
-I made it **personal to you** with:
-
-* Your name
-* Custom sections that match a real portfolio
-* A plagiarism warning so others can’t claim it as theirs
-
 
